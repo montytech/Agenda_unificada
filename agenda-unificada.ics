@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Monty2 Agenda//openclaw.ai//
+BEGIN:VEVENT
+SUMMARY:Viaje a Miravete (Trabajo (manual))
+DTSTART;TZID=Europe/Madrid:20260225T070000
+DTEND;TZID=Europe/Madrid:20260225T090000
+DESCRIPTION:Viaje al centro de control\nOrigen: Trabajo (manual)
+LOCATION:Miravete
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Agents boot camp (Apple)
+DTSTART;TZID=Europe/Madrid:20260228T083000
+DTEND;TZID=Europe/Madrid:20260228T183000
+DESCRIPTION:Origen: Apple
+LOCATION:s/n Avenida de Montepríncipe\, 28668 Boadilla del Monte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wetaca (Apple)
+DTSTART;TZID=GMT+0200:20260301T180500
+DTEND;TZID=GMT+0200:20260301T193500
+DESCRIPTION:Origen: Apple
+LOCATION:Calle de Antonio Machado\, 20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MVP Dron (Trabajo (Microsoft 365))
+DTSTART;TZID=Europe/Paris:20260303T090000
+DTEND;TZID=Europe/Paris:20260303T093000
+DESCRIPTION:______________________________________________________________
+ __________________\nReunión de Microsoft Teams\nUnirse: https://teams.mic
+ rosoft.com/meet/38094744020959?p=xyaRjLESh46epLUhvg\nId. de reunión: 380 
+ 947 440 209 59\nCódigo de acceso: 4Ra673w9\n_____________________________
+ ___\n¿Necesita ayuda?<https://aka.ms/JoinTeamsMeeting?omkt=es-ES> | Refer
+ encia del sistema<https://teams.microsoft.com/l/meetup-join/19%3ameeting_M
+ GRkMTcwMzgtYWQ1ZS00NjJmLWI0YTItZGVhMjI2ZDA5NmZj%40thread.v2/0?context=%7b%
+ 22Tid%22%3a%2224fc2182-8abd-4f6a-acd2-5583a2260fba%22%2c%22Oid%22%3a%22caf
+ 4b961-e660-4868-a3ea-d60cfbe03eb6%22%7d>\nMarcar por teléfono\n+34 919 26
+  82 95\,\,330069867#<tel:+34919268295\,\,330069867> España\, Madrid\nBusc
+ ar un número local<https://dialin.teams.microsoft.com/33efd41a-cc02-4a32-
+ b1d3-07e78f09b20e?id=330069867>\nId. de conferencia telefónica: 330 069 8
+ 67#\nPara organizadores: Opciones de la reunión<https://teams.microsoft.c
+ om/meetingOptions/?organizerId=caf4b961-e660-4868-a3ea-d60cfbe03eb6&tenant
+ Id=24fc2182-8abd-4f6a-acd2-5583a2260fba&threadId=19_meeting_MGRkMTcwMzgtYW
+ Q1ZS00NjJmLWI0YTItZGVhMjI2ZDA5NmZj@thread.v2&messageId=0&language=es-ES> |
+  Restablecer el PIN de marcado<https://dialin.teams.microsoft.com/usp/pstn
+ conferencing>\n___________________________________________________________
+ _____________________\nOrigen: Trabajo (Microsoft 365)
+LOCATION:Reunión de Microsoft Teams
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ideas ventilación túneles urbanos (Trabajo (Microsoft 365))
+DTSTART;TZID=Europe/Paris:20260303T150000
+DTEND;TZID=Europe/Paris:20260303T163000
+DESCRIPTION:______________________________________________________________
+ __________________\nReunión de Microsoft Teams\nUnirse: https://teams.mic
+ rosoft.com/meet/38320371724260?p=8lJ7wLodkhRaGwrtKr\nId. de reunión: 383 
+ 203 717 242 60\nCódigo de acceso: VS9Pi96K\n_____________________________
+ ___\n¿Necesita ayuda?<https://aka.ms/JoinTeamsMeeting?omkt=es-ES> | Refer
+ encia del sistema<https://teams.microsoft.com/l/meetup-join/19%3ameeting_O
+ DdkMDIxZDgtYjVkYS00Zjc0LThhNWUtYjhhNzE4NjM0N2I1%40thread.v2/0?context=%7b%
+ 22Tid%22%3a%2224fc2182-8abd-4f6a-acd2-5583a2260fba%22%2c%22Oid%22%3a%2239a
+ 49304-3e6b-4917-97ee-c734671e4f25%22%7d>\nPara organizadores: Opciones de 
+ la reunión<https://teams.microsoft.com/meetingOptions/?organizerId=39a493
+ 04-3e6b-4917-97ee-c734671e4f25&tenantId=24fc2182-8abd-4f6a-acd2-5583a2260f
+ ba&threadId=19_meeting_ODdkMDIxZDgtYjVkYS00Zjc0LThhNWUtYjhhNzE4NjM0N2I1@th
+ read.v2&messageId=0&language=es-ES>\n_____________________________________
+ ___________________________________________\nOrigen: Trabajo (Microsoft 36
+ 5)
+LOCATION:Reunión de Microsoft Teams
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:N8N Contest - Midpoint Review (Trabajo (Microsoft 365))
+DTSTART;TZID=Europe/Paris:20260306T130000
+DTEND;TZID=Europe/Paris:20260306T133000
+DESCRIPTION:ATENCIÓN: Este correo electrónico se envió desde fuera de l
+ a organización. No haga clic en enlaces ni abra archivos adjuntos a menos
+  que reconozca al remitente y sepa que el contenido es seguro.\n\n\n______
+ __________________________________________________________________________
+ \nMicrosoft Teams meeting\nJoin: https://teams.microsoft.com/meet/32324740
+ 958672?p=xJXUaUZI8NdQF3D0Dt\nMeeting ID: 323 247 409 586 72\nPasscode: 7au
+ 99uc9\n________________________________\nNeed help?<https://aka.ms/JoinTea
+ msMeeting?omkt=en-US> | System reference<https://teams.microsoft.com/l/mee
+ tup-join/19%3ameeting_ZDIzZWJlZGQtY2I1YS00NWQ2LWIyZmUtZGZiZmZmOGFkYTg3%40t
+ hread.v2/0?context=%7b%22Tid%22%3a%229e9d877d-b80b-46d8-b97c-8554e8f1b8cb%
+ 22%2c%22Oid%22%3a%22d2275de9-c98b-4874-99e9-4dd3d4ed935d%22%7d>\nFor organ
+ izers: Meeting options<https://teams.microsoft.com/meetingOptions/?organiz
+ erId=d2275de9-c98b-4874-99e9-4dd3d4ed935d&tenantId=9e9d877d-b80b-46d8-b97c
+ -8554e8f1b8cb&threadId=19_meeting_ZDIzZWJlZGQtY2I1YS00NWQ2LWIyZmUtZGZiZmZm
+ OGFkYTg3@thread.v2&messageId=0&language=en-US>\n__________________________
+ ______________________________________________________\nOrigen: Trabajo (M
+ icrosoft 365)
+LOCATION:Microsoft Teams Meeting
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Closing & Pitching N8N Contest (Trabajo (Microsoft 365))
+DTSTART;TZID=Europe/Paris:20260330T130000
+DTEND;TZID=Europe/Paris:20260330T170000
+DESCRIPTION:ATENCIÓN: Este correo electrónico se envió desde fuera de l
+ a organización. No haga clic en enlaces ni abra archivos adjuntos a menos
+  que reconozca al remitente y sepa que el contenido es seguro.\n\nDear all
+ \,\n\nThis is a placeholder invite for the n8n Contest Pitching and Closin
+ g session.\nPlease book the slot in your calendar. Further details\, inclu
+ ding the agenda and format\, will be shared closer to the date.\nThanks\, 
+ and more to come soon.\n\nBest regards\n\n________________________________
+ ________________________________________________\nMicrosoft Teams meeting\
+ nJoin: https://teams.microsoft.com/meet/32905861632354?p=4CTGilqCjbGLusRs0
+ y\nMeeting ID: 329 058 616 323 54\nPasscode: Dg975Ww6\n___________________
+ _____________\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | Sy
+ stem reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_Zjkw
+ MzJhMDQtZTE5Ny00OTE5LWJiZmItNmU2M2E3Y2IxZDk0%40thread.v2/0?context=%7b%22T
+ id%22%3a%229e9d877d-b80b-46d8-b97c-8554e8f1b8cb%22%2c%22Oid%22%3a%22d2275d
+ e9-c98b-4874-99e9-4dd3d4ed935d%22%7d>\nFor organizers: Meeting options<htt
+ ps://teams.microsoft.com/meetingOptions/?organizerId=d2275de9-c98b-4874-99
+ e9-4dd3d4ed935d&tenantId=9e9d877d-b80b-46d8-b97c-8554e8f1b8cb&threadId=19_
+ meeting_ZjkwMzJhMDQtZTE5Ny00OTE5LWJiZmItNmU2M2E3Y2IxZDk0@thread.v2&message
+ Id=0&language=en-US>\n____________________________________________________
+ ____________________________\nOrigen: Trabajo (Microsoft 365)
+LOCATION:Microsoft Teams Meeting
+END:VEVENT
+END:VCALENDAR
