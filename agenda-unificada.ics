@@ -9,21 +9,21 @@ DESCRIPTION:Viaje al centro de control\nOrigen: Trabajo (manual)
 LOCATION:Miravete
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Agents boot camp (Apple)
+SUMMARY:Agents boot camp (Personal)
 DTSTART;TZID=Europe/Madrid:20260228T083000
 DTEND;TZID=Europe/Madrid:20260228T183000
-DESCRIPTION:Origen: Apple
+DESCRIPTION:Origen: Personal
 LOCATION:s/n Avenida de Montepríncipe\, 28668 Boadilla del Monte
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wetaca (Apple)
+SUMMARY:Wetaca (Personal)
 DTSTART;TZID=GMT+0200:20260301T180500
 DTEND;TZID=GMT+0200:20260301T193500
-DESCRIPTION:Origen: Apple
+DESCRIPTION:Origen: Personal
 LOCATION:Calle de Antonio Machado\, 20
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MVP Dron (Trabajo (Microsoft 365))
+SUMMARY:MVP Dron (Trabajo)
 DTSTART;TZID=Europe/Paris:20260303T090000
 DTEND;TZID=Europe/Paris:20260303T093000
 DESCRIPTION:______________________________________________________________
@@ -44,11 +44,11 @@ DESCRIPTION:______________________________________________________________
  Q1ZS00NjJmLWI0YTItZGVhMjI2ZDA5NmZj@thread.v2&messageId=0&language=es-ES> |
   Restablecer el PIN de marcado<https://dialin.teams.microsoft.com/usp/pstn
  conferencing>\n___________________________________________________________
- _____________________\nOrigen: Trabajo (Microsoft 365)
+ _____________________\nOrigen: Trabajo
 LOCATION:Reunión de Microsoft Teams
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ideas ventilación túneles urbanos (Trabajo (Microsoft 365))
+SUMMARY:Ideas ventilación túneles urbanos (Trabajo)
 DTSTART;TZID=Europe/Paris:20260303T150000
 DTEND;TZID=Europe/Paris:20260303T163000
 DESCRIPTION:______________________________________________________________
@@ -64,12 +64,11 @@ DESCRIPTION:______________________________________________________________
  04-3e6b-4917-97ee-c734671e4f25&tenantId=24fc2182-8abd-4f6a-acd2-5583a2260f
  ba&threadId=19_meeting_ODdkMDIxZDgtYjVkYS00Zjc0LThhNWUtYjhhNzE4NjM0N2I1@th
  read.v2&messageId=0&language=es-ES>\n_____________________________________
- ___________________________________________\nOrigen: Trabajo (Microsoft 36
- 5)
+ ___________________________________________\nOrigen: Trabajo
 LOCATION:Reunión de Microsoft Teams
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:N8N Contest - Midpoint Review (Trabajo (Microsoft 365))
+SUMMARY:N8N Contest - Midpoint Review (Trabajo)
 DTSTART;TZID=Europe/Paris:20260306T130000
 DTEND;TZID=Europe/Paris:20260306T133000
 DESCRIPTION:ATENCIÓN: Este correo electrónico se envió desde fuera de l
@@ -87,12 +86,11 @@ DESCRIPTION:ATENCIÓN: Este correo electrónico se envió desde fuera de l
  erId=d2275de9-c98b-4874-99e9-4dd3d4ed935d&tenantId=9e9d877d-b80b-46d8-b97c
  -8554e8f1b8cb&threadId=19_meeting_ZDIzZWJlZGQtY2I1YS00NWQ2LWIyZmUtZGZiZmZm
  OGFkYTg3@thread.v2&messageId=0&language=en-US>\n__________________________
- ______________________________________________________\nOrigen: Trabajo (M
- icrosoft 365)
+ ______________________________________________________\nOrigen: Trabajo
 LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Closing & Pitching N8N Contest (Trabajo (Microsoft 365))
+SUMMARY:Closing & Pitching N8N Contest (Trabajo)
 DTSTART;TZID=Europe/Paris:20260330T130000
 DTEND;TZID=Europe/Paris:20260330T170000
 DESCRIPTION:ATENCIÓN: Este correo electrónico se envió desde fuera de l
@@ -114,7 +112,7 @@ DESCRIPTION:ATENCIÓN: Este correo electrónico se envió desde fuera de l
  e9-4dd3d4ed935d&tenantId=9e9d877d-b80b-46d8-b97c-8554e8f1b8cb&threadId=19_
  meeting_ZjkwMzJhMDQtZTE5Ny00OTE5LWJiZmItNmU2M2E3Y2IxZDk0@thread.v2&message
  Id=0&language=en-US>\n____________________________________________________
- ____________________________\nOrigen: Trabajo (Microsoft 365)
+ ____________________________\nOrigen: Trabajo
 LOCATION:Microsoft Teams Meeting
 END:VEVENT
 END:VCALENDAR
