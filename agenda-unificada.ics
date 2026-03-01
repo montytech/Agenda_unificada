@@ -83,6 +83,14 @@ DESCRIPTION:ATENCIÓN: Este correo electrónico se envió desde fuera de l
 LOCATION:Microsoft Teams Meeting
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Diseño de plataformas agénticas (Personal)
+DTSTART;TZID=Europe/Madrid:20260306T180000
+DTEND;TZID=Europe/Madrid:20260306T200000
+DESCRIPTION:Ver en la aplicación: meetup://HackMadrid-27/events/313188950
+ \nOrigen: Personal
+LOCATION:C. de Bravo Murillo\, 39\, Madrid\, MD
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Closing & Pitching N8N Contest (Trabajo)
 DTSTART;TZID=Europe/Paris:20260330T130000
 DTEND;TZID=Europe/Paris:20260330T170000
