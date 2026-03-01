@@ -9,13 +9,6 @@ DESCRIPTION:Viaje al centro de control\nOrigen: Trabajo (manual)
 LOCATION:Miravete
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Agents boot camp (Personal)
-DTSTART;TZID=Europe/Madrid:20260228T083000
-DTEND;TZID=Europe/Madrid:20260228T183000
-DESCRIPTION:Origen: Personal
-LOCATION:s/n Avenida de Montepríncipe\, 28668 Boadilla del Monte
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wetaca (Personal)
 DTSTART;TZID=GMT+0200:20260301T180500
 DTEND;TZID=GMT+0200:20260301T193500
