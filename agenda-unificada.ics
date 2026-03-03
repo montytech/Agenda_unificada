@@ -54,6 +54,14 @@ DESCRIPTION:______________________________________________________________
 LOCATION:Reunión de Microsoft Teams
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fisio (Personal)
+DTSTART;TZID=Europe/Madrid:20260304T190000
+DTEND;TZID=Europe/Madrid:20260304T200000
+DESCRIPTION:Origen: Personal
+LOCATION:Masos Fisioterapia\nCalle de el Algabeño\, 55\, 28043 Madrid\, E
+ spaña
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:N8N Contest - Midpoint Review (Trabajo)
 DTSTART;TZID=Europe/Paris:20260306T130000
 DTEND;TZID=Europe/Paris:20260306T133000
