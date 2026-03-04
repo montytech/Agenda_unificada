@@ -9,26 +9,6 @@ DESCRIPTION:Viaje al centro de control\nOrigen: Trabajo (manual)
 LOCATION:Miravete
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ideas ventilación túneles urbanos (Trabajo)
-DTSTART;TZID=Europe/Paris:20260303T150000
-DTEND;TZID=Europe/Paris:20260303T163000
-DESCRIPTION:______________________________________________________________
- __________________\nReunión de Microsoft Teams\nUnirse: https://teams.mic
- rosoft.com/meet/38320371724260?p=8lJ7wLodkhRaGwrtKr\nId. de reunión: 383 
- 203 717 242 60\nCódigo de acceso: VS9Pi96K\n_____________________________
- ___\n¿Necesita ayuda?<https://aka.ms/JoinTeamsMeeting?omkt=es-ES> | Refer
- encia del sistema<https://teams.microsoft.com/l/meetup-join/19%3ameeting_O
- DdkMDIxZDgtYjVkYS00Zjc0LThhNWUtYjhhNzE4NjM0N2I1%40thread.v2/0?context=%7b%
- 22Tid%22%3a%2224fc2182-8abd-4f6a-acd2-5583a2260fba%22%2c%22Oid%22%3a%2239a
- 49304-3e6b-4917-97ee-c734671e4f25%22%7d>\nPara organizadores: Opciones de 
- la reunión<https://teams.microsoft.com/meetingOptions/?organizerId=39a493
- 04-3e6b-4917-97ee-c734671e4f25&tenantId=24fc2182-8abd-4f6a-acd2-5583a2260f
- ba&threadId=19_meeting_ODdkMDIxZDgtYjVkYS00Zjc0LThhNWUtYjhhNzE4NjM0N2I1@th
- read.v2&messageId=0&language=es-ES>\n_____________________________________
- ___________________________________________\nOrigen: Trabajo
-LOCATION:Reunión de Microsoft Teams
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fisio (Personal)
 DTSTART;TZID=Europe/Madrid:20260304T190000
 DTEND;TZID=Europe/Madrid:20260304T200000
