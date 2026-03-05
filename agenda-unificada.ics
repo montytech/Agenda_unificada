@@ -160,6 +160,13 @@ DESCRIPTION:Ver en la aplicación: meetup://HackMadrid-27/events/313188950
 LOCATION:C. de Bravo Murillo\, 39\, Madrid\, MD
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:San Francisco (Personal)
+DTSTART:20260308T140000Z
+DTEND:20260308T150000Z
+DESCRIPTION:Reserva para 3 invitados\nOrigen: Personal
+LOCATION:Carretera Cristo del Pardo s/n 28048 Madrid
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MVP Dron (Trabajo)
 DTSTART;TZID=Europe/Paris:20260310T090000
 DTEND;TZID=Europe/Paris:20260310T093000
