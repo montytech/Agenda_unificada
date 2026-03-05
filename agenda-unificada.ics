@@ -17,6 +17,14 @@ LOCATION:Masos Fisioterapia\nCalle de el Algabeño\, 55\, 28043 Madrid\, E
  spaña
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026: Robótica + IA: de prompts a robots (Personal)
+DTSTART;TZID=Europe/Madrid:20260305T173000
+DTEND;TZID=Europe/Madrid:20260305T200000
+DESCRIPTION:Get up-to-date information at https://luma.com/c8l4ebim?tk=9An
+ oEg\nOrigen: Personal
+LOCATION:MIL ( Madrid Innovation Lab )
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:N8N Contest - Midpoint Review (Trabajo)
 DTSTART;TZID=Europe/Paris:20260306T130000
 DTEND;TZID=Europe/Paris:20260306T133000
