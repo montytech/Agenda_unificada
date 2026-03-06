@@ -37,6 +37,26 @@ DESCRIPTION:______________________________________________________________
 LOCATION:Reunión de Microsoft Teams
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fotos Miravete 2 (Trabajo)
+DTSTART;TZID=Europe/Paris:20260306T114500
+DTEND;TZID=Europe/Paris:20260306T121500
+DESCRIPTION:______________________________________________________________
+ __________________\nReunión de Microsoft Teams\nUnirse: https://teams.mic
+ rosoft.com/meet/35745573431561?p=EKrZ1h77mgFAxkIpYJ\nId. de reunión: 357 
+ 455 734 315 61\nCódigo de acceso: Ah64nr9h\n_____________________________
+ ___\n¿Necesita ayuda?<https://aka.ms/JoinTeamsMeeting?omkt=es-ES> | Refer
+ encia del sistema<https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y
+ 2M4MTk1ZWEtMDE4NS00MGQ5LThlZWItZGYxOTRiOTNjMTdk%40thread.v2/0?context=%7b%
+ 22Tid%22%3a%2224fc2182-8abd-4f6a-acd2-5583a2260fba%22%2c%22Oid%22%3a%22adc
+ 7852c-d5e7-43ec-9031-0c450addcbdc%22%7d>\nPara organizadores: Opciones de 
+ la reunión<https://teams.microsoft.com/meetingOptions/?organizerId=adc785
+ 2c-d5e7-43ec-9031-0c450addcbdc&tenantId=24fc2182-8abd-4f6a-acd2-5583a2260f
+ ba&threadId=19_meeting_Y2M4MTk1ZWEtMDE4NS00MGQ5LThlZWItZGYxOTRiOTNjMTdk@th
+ read.v2&messageId=0&language=es-ES>\n_____________________________________
+ ___________________________________________\nOrigen: Trabajo
+LOCATION:Reunión de Microsoft Teams
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:N8N Contest - Midpoint Review (Trabajo)
 DTSTART;TZID=Europe/Paris:20260306T130000
 DTEND;TZID=Europe/Paris:20260306T133000
