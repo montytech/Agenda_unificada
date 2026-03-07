@@ -9,14 +9,6 @@ DESCRIPTION:Viaje al centro de control\nOrigen: Trabajo (manual)
 LOCATION:Miravete
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Diseño de plataformas agénticas (Personal)
-DTSTART;TZID=Europe/Madrid:20260306T180000
-DTEND;TZID=Europe/Madrid:20260306T200000
-DESCRIPTION:Ver en la aplicación: meetup://HackMadrid-27/events/313188950
- \nOrigen: Personal
-LOCATION:C. de Bravo Murillo\, 39\, Madrid\, MD
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:San Francisco (Personal)
 DTSTART:20260308T140000Z
 DTEND:20260308T150000Z
