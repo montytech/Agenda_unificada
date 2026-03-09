@@ -189,6 +189,26 @@ DESCRIPTION:______________________________________________________________
 LOCATION:Reunión de Microsoft Teams
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Reglas diseño señalización ferroviaria (Trabajo)
+DTSTART;TZID=Europe/Paris:20260313T103000
+DTEND;TZID=Europe/Paris:20260313T113000
+DESCRIPTION:______________________________________________________________
+ __________________\nReunión de Microsoft Teams\nUnirse: https://teams.mic
+ rosoft.com/meet/37136639264719?p=tY5PLSgOE4fPeFfc2D\nId. de reunión: 371 
+ 366 392 647 19\nCódigo de acceso: Gu2Gc9wP\n_____________________________
+ ___\n¿Necesita ayuda?<https://aka.ms/JoinTeamsMeeting?omkt=es-ES> | Refer
+ encia del sistema<https://teams.microsoft.com/l/meetup-join/19%3ameeting_N
+ zc0OWJkY2UtYTE3ZS00MzdhLWJkZWQtOTNlNjU0OGE2MTlm%40thread.v2/0?context=%7b%
+ 22Tid%22%3a%2224fc2182-8abd-4f6a-acd2-5583a2260fba%22%2c%22Oid%22%3a%22adc
+ 7852c-d5e7-43ec-9031-0c450addcbdc%22%7d>\nPara organizadores: Opciones de 
+ la reunión<https://teams.microsoft.com/meetingOptions/?organizerId=adc785
+ 2c-d5e7-43ec-9031-0c450addcbdc&tenantId=24fc2182-8abd-4f6a-acd2-5583a2260f
+ ba&threadId=19_meeting_Nzc0OWJkY2UtYTE3ZS00MzdhLWJkZWQtOTNlNjU0OGE2MTlm@th
+ read.v2&messageId=0&language=es-ES>\n_____________________________________
+ ___________________________________________\nOrigen: Trabajo
+LOCATION:Reunión de Microsoft Teams
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Closing & Pitching N8N Contest (Trabajo)
 DTSTART;TZID=Europe/Paris:20260330T130000
 DTEND;TZID=Europe/Paris:20260330T170000
