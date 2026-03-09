@@ -209,6 +209,26 @@ DESCRIPTION:______________________________________________________________
 LOCATION:Reunión de Microsoft Teams
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Reunión equipo BIM (Trabajo)
+DTSTART;TZID=Europe/Paris:20260313T120000
+DTEND;TZID=Europe/Paris:20260313T130000
+DESCRIPTION:______________________________________________________________
+ __________________\nReunión de Microsoft Teams\nUnirse: https://teams.mic
+ rosoft.com/meet/32871214090059?p=kQ6oMZWdqL7gbiENhz\nId. de reunión: 328 
+ 712 140 900 59\nCódigo de acceso: de3RR9T8\n_____________________________
+ ___\n¿Necesita ayuda?<https://aka.ms/JoinTeamsMeeting?omkt=es-ES> | Refer
+ encia del sistema<https://teams.microsoft.com/l/meetup-join/19%3ameeting_Z
+ DA3NDA5MzItZmVlZS00MGQ1LTk0N2EtNmMwMGM2YWEwMGFm%40thread.v2/0?context=%7b%
+ 22Tid%22%3a%2224fc2182-8abd-4f6a-acd2-5583a2260fba%22%2c%22Oid%22%3a%225e7
+ f0a76-a5da-4ce7-914f-ba51ece8bcfa%22%7d>\nPara organizadores: Opciones de 
+ la reunión<https://teams.microsoft.com/meetingOptions/?organizerId=5e7f0a
+ 76-a5da-4ce7-914f-ba51ece8bcfa&tenantId=24fc2182-8abd-4f6a-acd2-5583a2260f
+ ba&threadId=19_meeting_ZDA3NDA5MzItZmVlZS00MGQ1LTk0N2EtNmMwMGM2YWEwMGFm@th
+ read.v2&messageId=0&language=es-ES>\n_____________________________________
+ ___________________________________________\nOrigen: Trabajo
+LOCATION:Sala Forjado - 3B (Madrid\, ES)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Closing & Pitching N8N Contest (Trabajo)
 DTSTART;TZID=Europe/Paris:20260330T130000
 DTEND;TZID=Europe/Paris:20260330T170000
