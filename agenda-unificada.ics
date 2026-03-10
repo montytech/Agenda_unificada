@@ -54,9 +54,31 @@ DESCRIPTION:______________________________________________________________
 LOCATION:Reunión de Microsoft Teams
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Reunión equipo BIM (Trabajo)
+DTSTART;TZID=Europe/Paris:20260313T100000
+DTEND;TZID=Europe/Paris:20260313T110000
+DESCRIPTION:Hola Rosa\,\n\nCarlos necesita modificar la hora de la reunió
+ n. Espero que no te suponga ningún problema.\n\nUn saludo\,\n\nLaura\n\n\
+ n_________________________________________________________________________
+ _______\nReunión de Microsoft Teams\nUnirse: https://teams.microsoft.com/
+ meet/32871214090059?p=kQ6oMZWdqL7gbiENhz\nId. de reunión: 328 712 140 900
+  59\nCódigo de acceso: de3RR9T8\n________________________________\n¿Nece
+ sita ayuda?<https://aka.ms/JoinTeamsMeeting?omkt=es-ES> | Referencia del s
+ istema<https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDA3NDA5MzIt
+ ZmVlZS00MGQ1LTk0N2EtNmMwMGM2YWEwMGFm%40thread.v2/0?context=%7b%22Tid%22%3a
+ %2224fc2182-8abd-4f6a-acd2-5583a2260fba%22%2c%22Oid%22%3a%225e7f0a76-a5da-
+ 4ce7-914f-ba51ece8bcfa%22%7d>\nPara organizadores: Opciones de la reunión
+ <https://teams.microsoft.com/meetingOptions/?organizerId=5e7f0a76-a5da-4ce
+ 7-914f-ba51ece8bcfa&tenantId=24fc2182-8abd-4f6a-acd2-5583a2260fba&threadId
+ =19_meeting_ZDA3NDA5MzItZmVlZS00MGQ1LTk0N2EtNmMwMGM2YWEwMGFm@thread.v2&mes
+ sageId=0&language=es-ES>\n________________________________________________
+ ________________________________\nOrigen: Trabajo
+LOCATION:Sala Forjado - 3B (Madrid\, ES)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Reglas diseño señalización ferroviaria (Trabajo)
-DTSTART;TZID=Europe/Paris:20260313T103000
-DTEND;TZID=Europe/Paris:20260313T113000
+DTSTART;TZID=Europe/Paris:20260313T113000
+DTEND;TZID=Europe/Paris:20260313T123000
 DESCRIPTION:______________________________________________________________
  __________________\nReunión de Microsoft Teams\nUnirse: https://teams.mic
  rosoft.com/meet/37136639264719?p=tY5PLSgOE4fPeFfc2D\nId. de reunión: 371 
@@ -72,26 +94,6 @@ DESCRIPTION:______________________________________________________________
  read.v2&messageId=0&language=es-ES>\n_____________________________________
  ___________________________________________\nOrigen: Trabajo
 LOCATION:Reunión de Microsoft Teams
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reunión equipo BIM (Trabajo)
-DTSTART;TZID=Europe/Paris:20260313T120000
-DTEND;TZID=Europe/Paris:20260313T130000
-DESCRIPTION:______________________________________________________________
- __________________\nReunión de Microsoft Teams\nUnirse: https://teams.mic
- rosoft.com/meet/32871214090059?p=kQ6oMZWdqL7gbiENhz\nId. de reunión: 328 
- 712 140 900 59\nCódigo de acceso: de3RR9T8\n_____________________________
- ___\n¿Necesita ayuda?<https://aka.ms/JoinTeamsMeeting?omkt=es-ES> | Refer
- encia del sistema<https://teams.microsoft.com/l/meetup-join/19%3ameeting_Z
- DA3NDA5MzItZmVlZS00MGQ1LTk0N2EtNmMwMGM2YWEwMGFm%40thread.v2/0?context=%7b%
- 22Tid%22%3a%2224fc2182-8abd-4f6a-acd2-5583a2260fba%22%2c%22Oid%22%3a%225e7
- f0a76-a5da-4ce7-914f-ba51ece8bcfa%22%7d>\nPara organizadores: Opciones de 
- la reunión<https://teams.microsoft.com/meetingOptions/?organizerId=5e7f0a
- 76-a5da-4ce7-914f-ba51ece8bcfa&tenantId=24fc2182-8abd-4f6a-acd2-5583a2260f
- ba&threadId=19_meeting_ZDA3NDA5MzItZmVlZS00MGQ1LTk0N2EtNmMwMGM2YWEwMGFm@th
- read.v2&messageId=0&language=es-ES>\n_____________________________________
- ___________________________________________\nOrigen: Trabajo
-LOCATION:Sala Forjado - 3B (Madrid\, ES)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MVP Dron (Trabajo)
