@@ -229,6 +229,31 @@ DESCRIPTION:______________________________________________________________
 LOCATION:Sala Forjado - 3B (Madrid\, ES)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MVP Dron (Trabajo)
+DTSTART;TZID=Europe/Paris:20260317T100000
+DTEND;TZID=Europe/Paris:20260317T103000
+DESCRIPTION:______________________________________________________________
+ __________________\nReunión de Microsoft Teams\nUnirse: https://teams.mic
+ rosoft.com/meet/38252243354958?p=1fQZhdViglm1qVdWCu\nId. de reunión: 382 
+ 522 433 549 58\nCódigo de acceso: Sg7oQ6NY\n_____________________________
+ ___\n¿Necesita ayuda?<https://aka.ms/JoinTeamsMeeting?omkt=es-ES> | Refer
+ encia del sistema<https://teams.microsoft.com/l/meetup-join/19%3ameeting_M
+ WI0YmFmZWItMGNlOC00YWMwLWIyZDItYjk1ZjhhYzcyM2Zh%40thread.v2/0?context=%7b%
+ 22Tid%22%3a%2224fc2182-8abd-4f6a-acd2-5583a2260fba%22%2c%22Oid%22%3a%22caf
+ 4b961-e660-4868-a3ea-d60cfbe03eb6%22%7d>\nMarcar por teléfono\n+34 919 26
+  82 95\,\,907586925#<tel:+34919268295\,\,907586925> España\, Madrid\nBusc
+ ar un número local<https://dialin.teams.microsoft.com/33efd41a-cc02-4a32-
+ b1d3-07e78f09b20e?id=907586925>\nId. de conferencia telefónica: 907 586 9
+ 25#\nPara organizadores: Opciones de la reunión<https://teams.microsoft.c
+ om/meetingOptions/?organizerId=caf4b961-e660-4868-a3ea-d60cfbe03eb6&tenant
+ Id=24fc2182-8abd-4f6a-acd2-5583a2260fba&threadId=19_meeting_MWI0YmFmZWItMG
+ NlOC00YWMwLWIyZDItYjk1ZjhhYzcyM2Zh@thread.v2&messageId=0&language=es-ES> |
+  Restablecer el PIN de marcado<https://dialin.teams.microsoft.com/usp/pstn
+ conferencing>\n___________________________________________________________
+ _____________________\nOrigen: Trabajo
+LOCATION:Reunión de Microsoft Teams
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Closing & Pitching N8N Contest (Trabajo)
 DTSTART;TZID=Europe/Paris:20260330T130000
 DTEND;TZID=Europe/Paris:20260330T170000
