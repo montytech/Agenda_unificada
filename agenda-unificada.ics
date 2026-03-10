@@ -9,26 +9,6 @@ DESCRIPTION:Viaje al centro de control\nOrigen: Trabajo (manual)
 LOCATION:Miravete
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:QGis Ferrocarriles (Trabajo)
-DTSTART;TZID=Europe/Paris:20260309T110000
-DTEND;TZID=Europe/Paris:20260309T113000
-DESCRIPTION:______________________________________________________________
- __________________\nReunión de Microsoft Teams\nUnirse: https://teams.mic
- rosoft.com/meet/3324217320785?p=MaP2Jc8qBl7rdGCWwJ\nId. de reunión: 332 4
- 21 732 078 5\nCódigo de acceso: iN9sP6SD\n_______________________________
- _\n¿Necesita ayuda?<https://aka.ms/JoinTeamsMeeting?omkt=es-ES> | Referen
- cia del sistema<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWY
- wMTRjMGItZDJlNC00ZWIyLWJiN2ItMTJjMzYwYzBiYWE1%40thread.v2/0?context=%7b%22
- Tid%22%3a%2224fc2182-8abd-4f6a-acd2-5583a2260fba%22%2c%22Oid%22%3a%22adc78
- 52c-d5e7-43ec-9031-0c450addcbdc%22%7d>\nPara organizadores: Opciones de la
-  reunión<https://teams.microsoft.com/meetingOptions/?organizerId=adc7852c
- -d5e7-43ec-9031-0c450addcbdc&tenantId=24fc2182-8abd-4f6a-acd2-5583a2260fba
- &threadId=19_meeting_MWYwMTRjMGItZDJlNC00ZWIyLWJiN2ItMTJjMzYwYzBiYWE1@thre
- ad.v2&messageId=0&language=es-ES>\n_______________________________________
- _________________________________________\nOrigen: Trabajo
-LOCATION:Reunión de Microsoft Teams\; Sala Forjado - 3B
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Priorización Casos de Uso Agentic IA en tuneles (Trabajo)
 DTSTART;TZID=Europe/Paris:20260309T120000
 DTEND;TZID=Europe/Paris:20260309T130000
