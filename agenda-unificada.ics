@@ -9,31 +9,6 @@ DESCRIPTION:Viaje al centro de control\nOrigen: Trabajo (manual)
 LOCATION:Miravete
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MVP Dron (Trabajo)
-DTSTART;TZID=Europe/Paris:20260310T090000
-DTEND;TZID=Europe/Paris:20260310T093000
-DESCRIPTION:______________________________________________________________
- __________________\nReunión de Microsoft Teams\nUnirse: https://teams.mic
- rosoft.com/meet/33067184232430?p=7BbE7gXKJYo0oN0kkI\nId. de reunión: 330 
- 671 842 324 30\nCódigo de acceso: Mq6X4pN6\n_____________________________
- ___\n¿Necesita ayuda?<https://aka.ms/JoinTeamsMeeting?omkt=es-ES> | Refer
- encia del sistema<https://teams.microsoft.com/l/meetup-join/19%3ameeting_N
- WRjNWZhYjktYmNkMC00ZGJhLWFiNzYtMjM3ZjE3NjVmNDg2%40thread.v2/0?context=%7b%
- 22Tid%22%3a%2224fc2182-8abd-4f6a-acd2-5583a2260fba%22%2c%22Oid%22%3a%22caf
- 4b961-e660-4868-a3ea-d60cfbe03eb6%22%7d>\nMarcar por teléfono\n+34 919 26
-  82 95\,\,422781546#<tel:+34919268295\,\,422781546> España\, Madrid\nBusc
- ar un número local<https://dialin.teams.microsoft.com/33efd41a-cc02-4a32-
- b1d3-07e78f09b20e?id=422781546>\nId. de conferencia telefónica: 422 781 5
- 46#\nPara organizadores: Opciones de la reunión<https://teams.microsoft.c
- om/meetingOptions/?organizerId=caf4b961-e660-4868-a3ea-d60cfbe03eb6&tenant
- Id=24fc2182-8abd-4f6a-acd2-5583a2260fba&threadId=19_meeting_NWRjNWZhYjktYm
- NkMC00ZGJhLWFiNzYtMjM3ZjE3NjVmNDg2@thread.v2&messageId=0&language=es-ES> |
-  Restablecer el PIN de marcado<https://dialin.teams.microsoft.com/usp/pstn
- conferencing>\n___________________________________________________________
- _____________________\nOrigen: Trabajo
-LOCATION:Reunión de Microsoft Teams
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Prueba telemetría dron (Trabajo)
 DTSTART;TZID=Europe/Paris:20260310T093000
 DTEND;TZID=Europe/Paris:20260310T103000
