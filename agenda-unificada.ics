@@ -9,26 +9,6 @@ DESCRIPTION:Viaje al centro de control\nOrigen: Trabajo (manual)
 LOCATION:Miravete
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Prueba telemetría dron (Trabajo)
-DTSTART;TZID=Europe/Paris:20260310T093000
-DTEND;TZID=Europe/Paris:20260310T103000
-DESCRIPTION:______________________________________________________________
- __________________\nReunión de Microsoft Teams\nUnirse: https://teams.mic
- rosoft.com/meet/36711042899790?p=DwcF4tkH8uFBtpXBbs\nId. de reunión: 367 
- 110 428 997 90\nCódigo de acceso: KA9WQ9JX\n_____________________________
- ___\n¿Necesita ayuda?<https://aka.ms/JoinTeamsMeeting?omkt=es-ES> | Refer
- encia del sistema<https://teams.microsoft.com/l/meetup-join/19%3ameeting_N
- zY2MGY1YjktNzg2OC00YzMyLWFjYzQtYzYyNTExMzFhZGU1%40thread.v2/0?context=%7b%
- 22Tid%22%3a%2224fc2182-8abd-4f6a-acd2-5583a2260fba%22%2c%22Oid%22%3a%22adc
- 7852c-d5e7-43ec-9031-0c450addcbdc%22%7d>\nPara organizadores: Opciones de 
- la reunión<https://teams.microsoft.com/meetingOptions/?organizerId=adc785
- 2c-d5e7-43ec-9031-0c450addcbdc&tenantId=24fc2182-8abd-4f6a-acd2-5583a2260f
- ba&threadId=19_meeting_NzY2MGY1YjktNzg2OC00YzMyLWFjYzQtYzYyNTExMzFhZGU1@th
- read.v2&messageId=0&language=es-ES>\n_____________________________________
- ___________________________________________\nOrigen: Trabajo
-LOCATION:Reunión de Microsoft Teams
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Reunión equipo BIM (Trabajo)
 DTSTART;TZID=Europe/Paris:20260313T100000
 DTEND;TZID=Europe/Paris:20260313T110000
