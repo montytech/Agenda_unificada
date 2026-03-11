@@ -76,6 +76,14 @@ DESCRIPTION:______________________________________________________________
 LOCATION:Reunión de Microsoft Teams
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CryptoDays by La Familia - Madrid Web3 Meetup (Personal)
+DTSTART;TZID=Europe/Madrid:20260319T180000
+DTEND;TZID=Europe/Madrid:20260319T203000
+DESCRIPTION:Get up-to-date information at https://luma.com/hfkqj08a?tk=W7R
+ qz5\nOrigen: Personal
+LOCATION:MIL ( Madrid Innovation Lab )
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Closing & Pitching N8N Contest (Trabajo)
 DTSTART;TZID=Europe/Paris:20260330T130000
 DTEND;TZID=Europe/Paris:20260330T170000
